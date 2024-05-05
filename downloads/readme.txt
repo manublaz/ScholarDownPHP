@@ -1,0 +1,1 @@
+Folder/Directory, into which all PDF documents are downloaded
